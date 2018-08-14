@@ -1,6 +1,7 @@
 # Visualize Data with a Scatterplot Graph
 #### Project made for the "Data Visualization" module in freeCodeCamp 
----
+
+![alt text](./Screenshot.png "Screenshot")
 
 This project was made for the 4th module in freeCodeCamp which requires the camper to code a D3 Scatter Plot representing the data taken from [this JSON document](https://raw.githubusercontent.com/freeCodeCamp/ProjectReferenceData/master/cyclist-data.json).
 
